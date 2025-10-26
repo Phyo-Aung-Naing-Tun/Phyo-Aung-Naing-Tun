@@ -1,6 +1,6 @@
 ### 👋 Hello! I'm **Phyo Aung Naing Tun**
 
-🚀 A passionate **Full Stack Developer**, currently exploring the depths of **C Programming**.
+🚀 A passionate **Full Stack Developer** in Myanmar.
 
 ---
 
