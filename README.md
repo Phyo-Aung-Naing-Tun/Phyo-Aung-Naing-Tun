@@ -10,7 +10,7 @@
 ---
 
 ### 🌱 What I'm Learning & Improving
-- Low-level **C Programming **
+- **Data Structures and Algorithms with C**
 - **SOLID principles**, **design patterns**, and **clean architecture**
 
 ---
@@ -33,4 +33,17 @@
 - Always curious about **how things work behind the scenes**
 
 ---
+
+<h3>🛠️ Languages</h3>
+C, PHP, JavaScript, HTML, CSS
+
+<h3>🎨 Frontend Frameworks</h3>
+Vue.js, Nuxt.js, TailwindCSS, Sass
+
+<h3>⚙️ Backend & Database</h3>
+Laravel, MySQL, PostgreSQL, Redis
+
+<h3>📦 Tools & DevOps</h3>
+Git, Linux
+
 
