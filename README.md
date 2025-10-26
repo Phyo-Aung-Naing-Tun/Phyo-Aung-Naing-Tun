@@ -34,4 +34,3 @@
 
 ---
 
-**“Dreaming to build my own framework — learning every layer from OS to HTTP.”** 🚀
